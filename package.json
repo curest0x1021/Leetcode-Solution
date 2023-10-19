@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Javascript solutions for leetcode problems.",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "doc": "docs"
   },
