@@ -8,9 +8,9 @@
 
 {{description}}
 
-## Solution (Java)
+## Solution (Python)
 
-```java
+```python
 
 ```
 
